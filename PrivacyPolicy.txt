@@ -1,0 +1,61 @@
+Privacy Policy
+‍Last Updated: November 6, 2025
+
+‍Information We Collect
+
+‍We collect information in two ways: information you voluntarily provide to us and information we collect automatically through your use of our website.
+
+* Information You Provide to Us: When you contact us by sending an email to one of the addresses listed on our website (such as for deals, careers, or media inquiries), we collect the personal information you choose to provide. This typically includes your name, email address, and any information contained in your message, resume, or attachments.
+* Information We Collect Automatically: When you visit our website, we use third-party analytics services, specifically Google Analytics, to collect information about your visit. This helps us understand how visitors use our site so we can improve it. The information we collect automatically may include your device and browser type, website usage data (such as pages visited and time spent on the site), and general geographic location derived from your anonymized IP address. We have configured our analytics to process this information in a way that does not identify you personally.
+
+‍How and Why We Use Your Information
+
+‍We use the information we collect for specific business purposes, as described below.
+
+* To Respond to Your Inquiries: We use the information you provide in your emails to respond to your specific requests, whether it is to evaluate a potential business opportunity, consider your candidacy for a role, or answer a media inquiry.
+* To Analyze and Improve Our Website: We use the automatically collected information to understand usage trends, administer the site, improve its functionality and user experience, and ensure its security.
+* To Comply with Legal Obligations: We may use your information as necessary to comply with applicable legal or regulatory requirements.
+
+We are committed to the principle of purpose limitation. We will not use the personal information you provide for any purpose other than the one for which it was provided without your consent.
+
+‍How We Share Your Information
+
+‍We do not sell your personal information for monetary consideration. We may, however, share your information with the following categories of third parties for the business purposes described above:
+
+* Service Providers: We may share information with third-party vendors who provide services on our behalf, such as website hosting and IT support.
+* Analytics Partners: We share the automatically collected website usage data with our analytics partner, Google LLC, to help us analyze and improve our site. As described in more detail in this policy, this activity may be considered “sharing” under certain state privacy laws.
+* Legal and Compliance Disclosures: We may disclose your information if we are required to do so by law, in response to a subpoena or court order, or in connection with a lawful request from a government or regulatory authority.
+
+‍Data Security
+
+‍We have implemented and maintain reasonable administrative, technical, and physical safeguards designed to protect the personal information we collect from unauthorized access, use, or disclosure. However, no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee its absolute security.
+
+‍Your Data Rights
+
+‍Depending on your state of residence, you may have certain rights regarding your personal information. These may include the right to:
+
+* Access the personal information we have collected about you.
+* Delete the personal information we have about you.
+* Opt-Out of the "sharing" of your personal information.
+
+We do not sell your personal information for monetary consideration. However, our use of third-party website analytics may be considered "sharing" under certain state privacy laws. To opt-out of this activity, please follow the instructions in the "Analytics and Tracking Technologies" section below.
+
+To submit a request to access or delete your information, please contact us using the information provided in the "Contact Information" section. We will respond to your request in accordance with applicable law.
+
+Please note that we may be unable to delete information that is necessary for us to comply with our legal or regulatory obligations (such as retaining client records and correspondence), to complete a transaction for which the information was collected, or for other exceptions permitted by law.
+
+‍Analytics and Tracking Technologies
+
+‍Our website uses Google Analytics, which uses cookies and similar technologies to collect and analyze information about how our website is used. The information generated about your use of the website is transmitted to Google. This information is used to compile statistical reports on website activity for us. Learn more about how Google uses this data or opt-out via this browser add-on.
+
+‍Children’s Privacy
+
+‍Our website is not intended for or directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe we have inadvertently collected information about your child, please contact us immediately to request the deletion of that information.
+
+‍Changes to This Privacy Policy
+
+‍We may update this Privacy Policy from time to time. Any changes will be effective when we post the revised policy on this website. We encourage you to review this Privacy Policy periodically, and the "Last Updated" date at the top of this page will indicate when it was last revised.
+
+‍Contact Information
+
+‍If you have any questions about this Privacy Policy or wish to exercise your data rights, please contact us at info@sykia.com
